@@ -1,0 +1,32 @@
+.video {
+    /* margin: 500px; */
+    margin: auto;
+}
+
+.boat {
+    display: flex;
+    justify-content: space-between;
+}
+
+.course {
+    margin: 100px;
+    margin-left: 450px;
+}
+
+.txet {
+    text-align: center;
+}
+
+.course1 {
+    margin: 100px;
+    margin-left: 450px;
+}
+
+.contact {
+    margin: 50px;
+    margin-left: 450px;
+}
+
+.txet1 {
+    text-align: center;
+}
